@@ -49,6 +49,6 @@ Yasudah sekian dulu ceritanya, keburu terlalu malam nanti kamu jadi gak bisa ist
 
 Semoga lain waktu kita bisa berjumpa lagi.
 
-![Processed with VSCO with a6 preset](/assets/img/vsco.jpeg)
+![Processed with VSCO with a6 preset]({{site.baseurl}}/assets/img/vsco.jpeg)
 
 *Menunggu yang pergi tuk kembali.*

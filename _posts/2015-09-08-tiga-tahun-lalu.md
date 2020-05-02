@@ -20,7 +20,7 @@ Duduk-duduk ngemper di depan toko sambil tukeran PP…
 
 Dalam hati aku mikir, ini aku di mana sih?!
 
-![banner_home_theater](/assets/img/banner_home_theater.jpg)
+![banner_home_theater]({{site.baseurl}}/assets/img/banner_home_theater.jpg)
 
 *Dulu pas aku lihat tulisannya masih typo. Shopisticated.*
 
@@ -40,6 +40,6 @@ Siang itu, aku menyasikan pertunjukan Pajama Drive untuk pertama kalinya. Aku ti
 
 Sekarang, saatnya aku mempersiapkan diri untuk memberikan yang terbaik. Agar pengalaman tak terlupakanku hari itu mungkin bisa menjadi milikmu juga!
 
-![image](/assets/img/wpid-1441734726043.jpg)
+![image]({{site.baseurl}}/assets/img/wpid-1441734726043.jpg)
 
 ps : Maaf ya ngepostnya tengah malam. Mimpiin aku boleh, nggak juga gapapa.

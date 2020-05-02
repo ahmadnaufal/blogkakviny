@@ -16,7 +16,7 @@ Dan yang terakhir gara-gara baru nonton Oscar penasaran banget dengan film Spotl
 
 Dan inilah #1MovieForYou untuk kalian. Besok kan weekend siapa tahu bisa jadi untuk menghabiskan waktu libur kalian…
 
-![spotlight-poster](/assets/img/spotlight-poster.jpg)
+![spotlight-poster]({{site.baseurl}}/assets/img/spotlight-poster.jpg)
 
 Okay sebelumnya aku mau mengingatkan tulisan ini cuma rekomendasi film aja buat kalian. Dari aku yang menikmatinya semoga kalian juga bisa merasakan hal yang aku rasakan saat menonton ini. Bukan mau ngereview apalagi mengkritik. Dan kalo kalian yang udah nonton film ini bisa di sharing juga pendapatnya di kolom komentar. Intinya sebelum filmnya ditarik dari bioskop, aku sih menyarankan untuk cepat ditonton hahaha.
 
