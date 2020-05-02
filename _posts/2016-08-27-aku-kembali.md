@@ -4,11 +4,11 @@ title:  "Aku Kembali."
 date:   2016-08-27 10:53:28 +0700
 categories: blog
 ---
-Hai.\
-Akhirnya setelah sekian lama kembali lagi ke dunia ini.\
+Hai.<br>
+Akhirnya setelah sekian lama kembali lagi ke dunia ini.<br>
 Entahlah, gak mau coba beralasan kenapa saya gak menulis beberapa bulan terakhir. Mungkin memang lagi sibuk dengan pikiran sendiri.
 
-Maret-April-Mei-Juni-Juli-Agustus.\
+Maret-April-Mei-Juni-Juli-Agustus.<br>
 Aku sendiri tidak sadar kalau selama itu. Bagi yang menunggu, mohon maaf ya sudah bikin nunggu. Apalagi yang ditunggu gak pasti kayak saya ini. Tapi ya, ujung-ujungnya pasti kembali.
 
 Kalau mau merangkum hidupku beberapa bulan terakhir kayaknya bakal jadi post yang terlalu panjang ya. Nanti diprotes lagi karena saking panjangnya mau nyaingin jalur MRT. Mungkin kita mulai dari hal-hal apa aja yang menyibukan Viny beberapa bulan terakhir.
@@ -17,9 +17,9 @@ Itu juga kalau kamu mau tahu sih.
 
 Kalo gak bacanya sampai sini aja boleh kok.
 
-Kalian tahu aku suka baca buku. Namun belakangan jariku tersisa terlalu banyak saat menghitung kedatanganku ke toko buku.\
-Kalian tahu aku suka menulis. Aku yakin panjang tulisanku tak sepanjang tajuk utama berita koran hari ini.\
-Kalian tahu aku suka menggambar. Ah, aku yakin jika ada yang sangat merindukanku saat ini. Tak lain tak bukan adalah tumpukan kertas sketsa dan kotak pensilku.\
+Kalian tahu aku suka baca buku. Namun belakangan jariku tersisa terlalu banyak saat menghitung kedatanganku ke toko buku.<br>
+Kalian tahu aku suka menulis. Aku yakin panjang tulisanku tak sepanjang tajuk utama berita koran hari ini.<br>
+Kalian tahu aku suka menggambar. Ah, aku yakin jika ada yang sangat merindukanku saat ini. Tak lain tak bukan adalah tumpukan kertas sketsa dan kotak pensilku.
 
 Ya, gak selamanya apa yang kamu sukai akan terus disukai kan? Sama seperti kamu tidak akan membenci selamanya apa yang kamu benci.
 
@@ -48,3 +48,7 @@ Gak nyangka ya, apa yang dulu aku gak suka, bisa jadi sesuatu yang bikin aku mel
 Yasudah sekian dulu ceritanya, keburu terlalu malam nanti kamu jadi gak bisa istirahat.
 
 Semoga lain waktu kita bisa berjumpa lagi.
+
+![Processed with VSCO with a6 preset](/assets/img/vsco.jpeg)
+
+*Menunggu yang pergi tuk kembali.*
